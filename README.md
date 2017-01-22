@@ -1,0 +1,2 @@
+# Hello
+Ćwiczenie GIT
